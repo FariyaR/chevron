@@ -5,8 +5,7 @@
 }
 
 body {
-  background-color: rgb(0, 0, 0);
-  color: #fff;
+  background-image: url("https://i.pinimg.com/originals/68/2f/37/682f37d5eb065900cf8fe093c16aad89.jpg");
   font-family: 'Muli', sans-serif;
   display: flex;
   flex-direction: column;
@@ -17,8 +16,10 @@ body {
   margin: 0;
 }
 
+
+
 .container {
-  background-color: rgba(109, 106, 106, 0.4);
+  background-color: rgb(7, 7, 7);
   padding: 20px 40px;
   border-radius: 5px;
 }
@@ -30,7 +31,7 @@ body {
 
 .container a {
   text-decoration: none;
-  color: lightblue;
+  color: rgb(255, 255, 255);
 }
 
 .btn {
